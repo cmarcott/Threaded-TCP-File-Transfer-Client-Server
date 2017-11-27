@@ -2,7 +2,7 @@
 
 - A client/server combination allowing users to transfer files from multiple clients to a central server
 
-##Running the code
+## Running the code
 - You can type 'make' or 'make all' to compile the program
 - You can type 'make clean' to remove all executables
 - You can type 'make remake' to remove all executables and compile the program in one go
